@@ -14,9 +14,6 @@ This data science project uses the data mining lifecycle framework *CRISP-DM*.
 
 At each step, due to new learning, the raise of new business questions or insights that come up, the professional can go back and forth on the process to redesign it or enhance the analysis.
 
-## Medium Article
-
-Find this project's complete description at this [Medium article](https://medium.com/towards-data-science/how-i-created-a-data-science-project-following-a-crisp-dm-lifecycle-8c0f5f89bba1?sk=f52e756c664f40ad267fd54b114ab901).
 
 
 #### CRISP-DM Framework
@@ -79,10 +76,3 @@ The instructions to run this project are really simple. See them next.
 9. Run the code as a python file.
 
 ---
-
-## Contact
-
-This project was developed by **Gustavo R Santos**.<br>
->Data Scientist with 13+ years of experience specializing in data analysis, machine learning, and visualization using Python, R, SQL, and PySpark. Author of *Data Wrangling with R* and instructor of a PySpark course, with a passion for sharing knowledge through blogging and teaching. MBA in Data Science & Analytics (USP, GPA 98%) with a proven track record of delivering impactful, data-driven business solutions.
-
-Find me via [Linkedin](https://www.linkedin.com/in/gurezende/)
