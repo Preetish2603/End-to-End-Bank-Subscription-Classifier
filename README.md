@@ -48,7 +48,7 @@ Docker and Docker Compose installed on your system
 #### Step-by-Step Instructions
 
 1. Clone the Credit Risk repository:
-Run `git clone https://github.com/gurezende/CRISP-DM-Classification.git` in your terminal.
+Run `git clone https://github.com/Preetish2603/End-to-End-Bank-Subscription-Classifier.git` in your terminal.
 This will download the CRISP-DM repository to your local machine
 
 2. Start the application using Docker Compose:
@@ -100,8 +100,5 @@ The application relies on a pre-trained classification model (saved as `model6.p
 
 MIT License
 
-## Contact
 
-This project was developed by Gustavo R Santos.<br>
-[Linkedin](https://www.linkedin.com/in/gurezende/)<br>
-[Website](https://gustavorsantos.me)
+
